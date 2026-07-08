@@ -1,0 +1,8 @@
+langchain-core
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+pandas
+openpyxl
+ollama
+numpy
